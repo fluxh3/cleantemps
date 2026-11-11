@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1794417175 source:d:\projects\cleantemps-main\cleantemps.cpp
+	<windows.h>
+	<shlobj.h>
+	<knownfolders.h>
+	<algorithm>
+	<cstdint>
+	<cwchar>
+	<cwctype>
+	<iomanip>
+	<iostream>
+	<set>
+	<string>
+	<vector>
+
